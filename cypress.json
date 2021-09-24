@@ -1,5 +1,6 @@
 {
-  "baseUrl": "http://localhost:8888",
+  "baseUrl": "https://todo-mvc-2.herokuapp.com",
   "fixturesFolder": false,
-  "pluginsFile": false
+  "pluginsFile": false,
+  "projectId": "mvc-parallel"
 }
